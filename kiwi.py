@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 # The URL of the web service
 BASEURL = 'http://165.227.157.145:8080/api/do_measurement'
 # the min x value
-RANGE_MIN = -10
+RANGE_MIN = -100
 # max x value
-RANGE_MAX = 11
+RANGE_MAX = 101
 # the degree of the polynomial function
 DEGREE = 6
 
